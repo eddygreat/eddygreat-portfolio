@@ -36,7 +36,7 @@ Use filters and effects to manipulate images dynamically via the **Canvas API**.
 I'd love to connect with you! Feel free to reach out via:
 
 - 📧 **Email**: edwardmanasseh@gmail.com  
-- 📱 **Phone**: +234-70s5sss768 
+- 📱 **Phone**: +234-7035333768 
 - 💬 Or drop me a message through the form on my site!
 
 ## 🛠 Built With
